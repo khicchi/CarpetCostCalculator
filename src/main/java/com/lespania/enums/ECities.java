@@ -15,4 +15,7 @@ public enum ECities {
         this.unitePrice = unitePrice;
     }
 
+    public double getUnitePrice() {
+        return unitePrice;
+    }
 }

@@ -13,4 +13,11 @@ public enum EStates {
         this.cities = cities;
     }
 
+    public String getAbbreviation() {
+        return abbreviation;
+    }
+
+    public ECities[] getCities() {
+        return cities;
+    }
 }
