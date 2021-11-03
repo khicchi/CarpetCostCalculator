@@ -1,8 +1,5 @@
 package com.lespania.carpetcostcalculator;
 
-import com.lespania.interfaces.ICarpetPrices;
-import com.lespania.services.carpet.CarpetTX;
-import com.lespania.services.carpet.CarpetVA;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
